@@ -17,13 +17,11 @@ body {
 }
 
 .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
-  position;
+  position: absolute;
   top: 0;
   left: 0;
   width: 980px;
   height: 622px;
-  z-index: -10;
-  opacity: 0.0;
 }
 
 .tag-1 {
